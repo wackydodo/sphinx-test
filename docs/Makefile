@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = DLW
 SOURCEDIR     = .
-BUILDDIR      = ../
+BUILDDIR      = E:\sphinx-test
 
 # Put it first so that "make" without argument is like "make help".
 help:
