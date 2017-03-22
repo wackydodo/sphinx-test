@@ -9,7 +9,7 @@ Welcome to DLW's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   includeme
 
 
 Indices and tables
